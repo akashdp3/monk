@@ -124,7 +124,7 @@ Monk intelligently asks questions based on change patterns:
 
 ## Roadmap
 
-- [x] Project setup and basic documentation
+- [ ] Project setup and basic documentation
 - [ ] Core documentation editor
 - [ ] Smart organization system
 - [ ] Version control implementation
